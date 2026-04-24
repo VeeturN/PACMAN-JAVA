@@ -3,7 +3,7 @@
 A professional, classic implementation of the legendary **Pacman** arcade game, built from scratch using Java. This project recreates the authentic retro experience with smooth movement, ghost AI, and a classic scoring system.
 
 ## 📺 Gameplay Preview
-[![Watch the gameplay](https://img.youtube.com/vi/TU_WPISZ_ID_FILMU/0.jpg)]([https://www.youtube.com/watch?v=TU_WPISZ_ID_FILMU](https://youtu.be/eKbDYsHU7o0))
+[![Watch the gameplay](https://img.youtube.com/vi/eKbDYsHU7o0/0.jpg)](https://www.youtube.com/watch?v=eKbDYsHU7o0)
 *Click the image above to watch the gameplay on YouTube.*
 
 ---
@@ -30,3 +30,10 @@ To run this project, you need:
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/VeeturN/PACMAN-JAVA.git](https://github.com/VeeturN/PACMAN-JAVA.git)
+   cd PACMAN-JAVA
+   javac src/*.java -d bin
+   java -cp bin Main
+## 🎮 Controls
+   Use your keyboard to navigate Pacman through the maze:
+   Arrow Keys / WASD: Move Up, Down, Left, Right
+   ESC: Exit to Menu / Quit
