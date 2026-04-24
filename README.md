@@ -1,9 +1,12 @@
 # Pacman Java Edition 🕹️
 
-A professional, classic implementation of the legendary **Pacman** arcade game, built from scratch using Java. This project recreates the authentic retro experience with smooth movement, ghost AI, and a classic scoring system.
+A professional, classic implementation of the legendary **Pacman** arcade game, built from scratch using Java. 
+
+🎓 **Academic Project:** *This project was developed as an assignment for the GUI (Graphical User Interface) course at PJATK (Polish-Japanese Academy of Information Technology).*
 
 ## 📺 Gameplay Preview
 [![Watch the gameplay](https://img.youtube.com/vi/eKbDYsHU7o0/0.jpg)](https://www.youtube.com/watch?v=eKbDYsHU7o0)
+
 *Click the image above to watch the gameplay on YouTube.*
 
 ---
