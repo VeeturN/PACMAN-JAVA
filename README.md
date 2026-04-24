@@ -33,7 +33,12 @@ To run this project, you need:
    cd PACMAN-JAVA
    javac src/*.java -d bin
    java -cp bin Main
+
+---
+
 ## 🎮 Controls
-   Use your keyboard to navigate Pacman through the maze:
-   Arrow Keys / WASD: Move Up, Down, Left, Right
-   ESC: Exit to Menu / Quit
+* **Use your keyboard to navigate Pacman through the maze:
+* Arrow Keys / WASD: Move Up, Down, Left, Right
+* ESC: Exit to Menu / Quit
+
+   
