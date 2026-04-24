@@ -37,7 +37,7 @@ To run this project, you need:
 ---
 
 ## 🎮 Controls
-* **Use your keyboard to navigate Pacman through the maze:
+Use your keyboard to navigate Pacman through the maze:
 * Arrow Keys / WASD: Move Up, Down, Left, Right
 * ESC: Exit to Menu / Quit
 
